@@ -5,11 +5,12 @@
 indianapolisbankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Indianapolis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://indianapolisbankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Indianapolis: Red Flags and What to Watch For: https://indianapolisbankruptcymill.com/chapter-13-indianapolis.html
 - Chapter 7 Bankruptcy in Indianapolis: Costs, Timeline and What to Know: https://indianapolisbankruptcymill.com/chapter-7-indianapolis.html
 - How to Check Your Indianapolis Bankruptcy Attorney's Track Record: https://indianapolisbankruptcymill.com/how-to-check.html
+- Indianapolis Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://indianapolisbankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Indianapolis: https://indianapolisbankruptcymill.com/warning-signs.html
+- Privacy Policy: https://indianapolisbankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
